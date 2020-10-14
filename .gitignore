@@ -1,5 +1,6 @@
 ### Excluded Directories ###
 /playground
+/misc_notes
 
 ### Scheme ###
 *.ss~
