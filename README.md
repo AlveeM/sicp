@@ -6,3 +6,4 @@ You can find the conceptual and proof exercises in my notes linked below. I've a
 
 Chapter Notes
 - [Chapter 1](https://www.notion.so/alvee/Chapter-1-Building-Abstractions-with-Procedures-77266d4f62824735ab4987efb063d4c9)
+- [Chapter 2](https://www.notion.so/alvee/Chapter-2-Building-Abstractions-with-Data-235a1558713e466b9d0ba2050bfbd412)
